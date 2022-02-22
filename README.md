@@ -1,2 +1,4 @@
 # course_compilation_principle
 编译原理课程中的写代码
+
+使用java编写，基本模拟了一个具备基础功能的编译器
